@@ -1,0 +1,91 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	font-family: sans-serif;
+}
+#nav-bar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+	background-color: #FFF;
+}
+.navbar-brand img
+{
+	height: 60px;
+	padding-left: 30px;
+}
+.navbar-nav li
+{
+	padding:0 10px;
+}
+.navbar-nav li a
+{
+	padding:0 10px;
+	color: #000 !important;
+	font-weight: 600;
+	float:right;
+	text-align:left;
+}
+.navbar-toggler
+{
+	outline: none !important;
+}
+
+/*--------------------STOCK HEADER-------------*/
+
+#stock-header
+{
+	margin: 15px 0;
+}
+
+.stock-header
+{
+	text-align: right;
+	border-right: 2px solid #4a1c14;
+	margin-top: 10px;
+	margin-bottom: 20px;
+
+}
+.index-name
+{
+	color: #7393d1;
+}
+
+/*--------------------VIDEO--------------------*/
+.video-bolsa{
+	margin-top: 50px;
+	margin-left: 15px;
+}
+
+/*-----------------FOOTER-------------*/
+footer {
+
+position: relative;
+
+text-align: center;
+
+bottom: -170px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
